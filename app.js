@@ -32,7 +32,7 @@ yargs.command({
     command: 'read',
     describe: 'read note',
     handler: function() {
-        console.log('read note');
+        console.log('read all the note note');
     }
 })
 
